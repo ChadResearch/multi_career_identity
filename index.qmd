@@ -1,0 +1,11 @@
+# multi_career_identity {.unnumbered}
+
+## Project Details
+
+| Item | Value |
+|------|-------|
+| Owner | 채충일 |
+| Type | Research |
+| Status | 초기화 |
+| Created | 2026-03-28 |
+| Collaboration | personal |
